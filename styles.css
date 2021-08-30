@@ -114,6 +114,9 @@ hr {
   padding-top: 5rem;
 }
 
+.hero .hero-description {
+  text-align: center;
+}
 .hero .hero-img {
   max-width: 80%;
   width: 550px;
